@@ -41,8 +41,8 @@ const projects = [
     {
         id: 4,
         category: 'Reactjs',
-        link1: 'https://quiz-app-using-api-l.netlify.app/',
-        link2: 'https://github.com/laxmiprasannachukka/Quiz-react-app-using-api',
+        link1: 'https://laxmiprasannaportfolio.herokuapp.com/',
+        link2: 'https://github.com/laxmiprasannachukka/Myportfolio',
         icon1: 'viewsite',
         icon2: 'Github',
         image: port4,
